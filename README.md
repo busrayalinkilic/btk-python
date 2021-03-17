@@ -1,1 +1,1 @@
-BTK Sıfırdan İleri python programlama eğitiminde kullandığım kodlarım.
+BTK Akademi Python Kursu Pratiklerim.
